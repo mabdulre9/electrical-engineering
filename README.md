@@ -15,7 +15,28 @@ All resources are free to access. No enrollment is required for most of them. Wh
 
 ## Contents
 
-[Calculus](#calculus) · [Differential Equations](#differential-equations) · [Linear Algebra](#linear-algebra) · [Complex Variables & Transforms](#complex-variables--transforms) · [Applied Thermodynamics](#applied-thermodynamics) · [Physics](#physics) · [Circuit Analysis](#circuit-analysis) · [Electro Magnetic Field Theory](#electro-magnetic-field-theory) · [Electronics (Analog/ Digital/ Optical/ Power)](#electronics-analog-digital-optical-power) · [Digital Logic Design](#digital-logic-design) · [Microprocessors & Microcontrollers](#microprocessors--microcontrollers) · [Electrical Machines](#electrical-machines) · [Signals & Systems](#signals--systems) · [Digital Communication Systems](#digital-communication-systems) · [Computer Communication Networks](#computer-communication-networks) · [Industrial Automation](#industrial-automation) · [Control Engineering & Control Systems](#control-engineering--control-systems) · [Power Systems](#power-systems) · [Measurements & Instrumentation](#measurements--instrumentation) · [High Voltage Engineering](#high-voltage-engineering) · [Computing - Programming & Algorithms](#computing---programming--algorithms) · [Artificial Intelligence & Machine Learning](#artificial-intelligence--machine-learning)
+1. [Calculus](#calculus)
+2. [Differential Equations](#differential-equations)
+3. [Linear Algebra](#linear-algebra)
+4. [Complex Variables & Transforms](#complex-variables--transforms)
+5. [Applied Thermodynamics](#applied-thermodynamics)
+6. [Physics](#physics)
+7. [Circuit Analysis](#circuit-analysis)
+8. [Electro Magnetic Field Theory](#electro-magnetic-field-theory)
+9. [Electronics (Analog/ Digital/ Optical/ Power)](#electronics-analog-digital-optical-power)
+10. [Digital Logic Design](#digital-logic-design)
+11. [Microprocessors & Microcontrollers](#microprocessors--microcontrollers)
+12. [Electrical Machines](#electrical-machines)
+13. [Signals & Systems](#signals--systems)
+14. [Digital Communication Systems](#digital-communication-systems)
+15. [Computer Communication Networks](#computer-communication-networks)
+16. [Industrial Automation](#industrial-automation)
+17. [Control Engineering & Control Systems](#control-engineering--control-systems)
+18. [Power Systems](#power-systems)
+19. [Measurements & Instrumentation](#measurements--instrumentation)
+20. [High Voltage Engineering](#high-voltage-engineering)
+21. [Computing - Programming & Algorithms](#computing---programming--algorithms)
+22. [Artificial Intelligence & Machine Learning](#artificial-intelligence--machine-learning)
 
 Reference: [Platforms](#platforms) · [Prerequisites](#prerequisites) · [Contributing](#contributing) · [Acknowledgements](#acknowledgements) · [License](#license)
 
@@ -268,7 +289,8 @@ Transducers, bridges, oscilloscopes, data acquisition, error analysis and digita
 
 | Title | Provider / Instructor | Link |
 |---|---|---|
-| High Voltage Engineering | IIT Kanpur (NPTEL) — Prof. Ravindra Arora | https://nptel.ac.in/courses/108104048 |
+| High Voltage Engineering | NESC Academy (NASA Engineering & Safety Center) | https://nescacademy.nasa.gov/playlist/c8a0c94a732a4385a383ae64e9a6aabc54 |
+
 
 Insulation coordination, breakdown phenomena, surge protection, high voltage testing and equipment design. Requires electrostatics from the field theory material, plus circuit analysis for transient behaviour.
 
