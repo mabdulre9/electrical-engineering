@@ -7,7 +7,7 @@ Maintained by **Muhammad Abdul Rehman**, Electrical Engineer, UET Taxila.
 
 All resources are free to access. No enrollment is required for most of them. Where a platform asks for a free account, this is noted in the [Platforms](#platforms) section. 
 
-⚠️ Note: This repository is still a work in progress and will be updated freequently.
+⚠️ **Note:** This repository is still a work in progress and will be updated freequently.
 
 ---
 
