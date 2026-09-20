@@ -265,8 +265,9 @@ Transfer functions, block diagrams, time and frequency response, stability, root
 | Title | Provider / Instructor | Link |
 |---|---|---|
 | Power System Engineering | IIT Kharagpur (NPTEL) — Prof. Debapriya Das | https://nptel.ac.in/courses/108105104 |
-| Power Systems Analysis | IIT Kanpur (NPTEL) — Prof. Arindam Ghosh | https://nptel.ac.in/courses/108104051 |
-| Restructured Power Systems | IIT Delhi (NPTEL) — Prof. S. A. Khaparde | https://nptel.ac.in/courses/108101005 |
+| Power System Generation, Transmission and Distribution | IIT Delhi | https://nptel.ac.in/courses/108102047 |
+| Power Plant Engineering | IIT Roorkee | https://nptel.ac.in/courses/112107291 |
+
 
 Generation, transmission, distribution, load flow, fault analysis, stability and grid operation. The IIT Kharagpur course covers transmission lines, insulators, corona, sag and tension, distribution load flow, voltage stability, load frequency control and unit commitment.
 
