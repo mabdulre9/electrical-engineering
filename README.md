@@ -351,8 +351,6 @@ Only the minimum needed to follow the material is listed. Where a course teaches
 
 ## Contributing
 
-Full guidelines are in [CONTRIBUTING.md](.github/CONTRIBUTING.md).
-
 To report a broken link, open an issue using the [broken link template](../../issues/new?template=broken-link.yml).
 To suggest a resource, use the [add resource template](../../issues/new?template=add-resource.yml) or open a pull request.
 
@@ -362,12 +360,6 @@ A resource should be:
 2. From a recognized university or institute, or from an established educator.
 3. Verified working, ideally checked in a private browsing window.
 4. Substantive — a full course or lecture series rather than a single video.
-
-Row format for pull requests:
-
-```markdown
-| Course Title | Provider — Instructor | https://full-url-here |
-```
 
 Links are written as plain URLs so that the full address is visible. Do not shorten them or hide them behind link text.
 
