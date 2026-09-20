@@ -154,6 +154,8 @@ These entries deliberately repeat the Physics section: the 8.02x sequence is the
 | Power Electronics MIT 6.622 | MIT OpenCourseWare | https://www.youtube.com/playlist?list=PLUl4u3cNGP62UTc77mJoubhDELSC8lfR0 |
 | Analog Electronics | Neso Academy | https://www.youtube.com/playlist?list=PLBlnK6fEyqRiw-GZRqfnlVIBz9dxrqHJS |
 | Digital Electronics | Neso Academy | https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm |
+| Razavi Electronics 1 | Behzad Razavi | https://www.youtube.com/playlist?list=PLiDoPUX9nLkJ8dnPgKoVEOiAb8BfulKRR |
+| Razavi Electronics 2 | Behzad Razavi | https://www.youtube.com/playlist?list=PLO4mxQzfcml_56XSGcA8ULOv7qEtZd0Hy |
 
 The MIT 3.15x series covers semiconductor physics rather than device application alone. 3.15.1x is the natural starting point.
 
@@ -304,6 +306,7 @@ Insulation coordination, breakdown phenomena, surge protection, high voltage tes
 | ⭐ CS50's Introduction to Computer Science | Harvard University — Prof. David J. Malan | https://cs50.harvard.edu/x/ |
 | Introduction To MATLAB Programming | MIT | https://ocw.mit.edu/courses/18-s997-introduction-to-matlab-programming-fall-2011/ |
 | Algorithms by Mohammed Abdul Bari | Mohammed Abdul Bari | https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O |
+| CS50’s Introduction to Programming with Python | Harvard | https://cs50.harvard.edu/python/ |
 | ⭐ GIT Version Control | learngitbranching.js.org | https://learngitbranching.js.org/ |
 | ⭐ Linux Learn | LabEx | https://labex.io/linuxjourney |
 
@@ -319,6 +322,7 @@ No mathematics or engineering prerequisite. This can be started on day one, in p
 |---|---|---|
 | Stanford CS229: Machine Learning by Andrew NG | Stanford — Prof. Andrew Ng | https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU |
 | ⭐ MIT 6.S191: Introduction to Deep Learning | MIT | https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI |
+| CS50’s Introduction to Artificial Intelligence with Python | Harvard | https://cs50.harvard.edu/ai/ |
 | Stanford CS230: Deep Learning by Andrew NG | Stanford — Prof. Andrew Ng | https://www.youtube.com/playlist?list=PLoROMvodv4rNRRGdS0rBbXOUGA0wjdh1X |
 | Stanford CS224N Natural Language Processing with Deep Learning | Stanford | https://www.youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D |
 
