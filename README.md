@@ -31,7 +31,7 @@ All resources are free to access. No enrollment is required for most of them. Wh
 14. [Digital Communication Systems](#digital-communication-systems)
 15. [Computer Communication Networks](#computer-communication-networks)
 16. [Industrial Automation](#industrial-automation)
-17. [Control Engineering & Control Systems](#control-engineering--control-systems)
+17. [Control Systems & Control Engineering](#control-systems--control-engineering)
 18. [Power Systems](#power-systems)
 19. [Measurements & Instrumentation](#measurements--instrumentation)
 20. [High Voltage Engineering](#high-voltage-engineering)
@@ -249,7 +249,7 @@ PLCs, SCADA, sensors and actuators, drives, robotics and manufacturing systems. 
 
 ---
 
-## Control Engineering & Control Systems
+## Control Systems & Control Engineering
 
 | Title | Provider / Instructor | Link |
 |---|---|---|
