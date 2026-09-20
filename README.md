@@ -5,8 +5,9 @@ A curated list of free electrical engineering courses from universities and inst
 Maintained by **Muhammad Abdul Rehman**, Electrical Engineer, UET Taxila.
 [engineer.marehman@gmail.com](mailto:engineer.marehman@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mabdulre9/) · [Portfolio](https://mabdulre9.github.io/portfolio/)
 
-All resources are free to access. No enrollment is required for most of them. Where a platform asks for a free account, this is noted in the [Platforms](#platforms) section.
+All resources are free to access. No enrollment is required for most of them. Where a platform asks for a free account, this is noted in the [Platforms](#platforms) section. 
 
+⚠Note: This repository is still a work in progress and will be updated freequently.
 ---
 
 ## Contents
