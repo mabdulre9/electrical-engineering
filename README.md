@@ -308,7 +308,7 @@ Insulation coordination, breakdown phenomena, surge protection, high voltage tes
 | Algorithms by Mohammed Abdul Bari | Mohammed Abdul Bari | https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O |
 | CS50’s Introduction to Programming with Python | Harvard | https://cs50.harvard.edu/python/ |
 | ⭐ GIT Version Control | learngitbranching.js.org | https://learngitbranching.js.org/ |
-| ⭐ Linux Learn | LabEx | https://labex.io/linuxjourney |
+| ⭐ Linux Essentials | LabEx | https://labex.io/linuxjourney |
 
 CS50x is the recommended starting point for anyone without a programming background. Git, Linux and algorithms together cover most of what is screened for in technical interviews.
 
