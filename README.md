@@ -21,11 +21,11 @@ Reference: [Platforms](#platforms) · [Prerequisites](#prerequisites) · [Contri
 
 | Title | Provider / Instructor | Link |
 |---|---|---|
-| ⭐ PRE-CALCULUS (COLLEGE ALGEBRA & TRIGONOMETRY) | Prof. Leonard | https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP |
-| ⭐ CALCULUS 1 | Prof. Leonard | https://www.youtube.com/playlist?list=PLF797E961509B4EB5 |
+| ⭐ Pre-Calculus (College Algebra & Trigonometry) | Prof. Leonard | https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP |
+| ⭐ Calculus I | Prof. Leonard | https://www.youtube.com/playlist?list=PLF797E961509B4EB5 |
 | Calculus I: Single Variable Calculus | MIT OpenCourseWare | https://ocw.mit.edu/courses/18-01-calculus-i-single-variable-calculus-fall-2020/ |
-| CALULUS 2 | Prof. Leonard | https://www.youtube.com/playlist?list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw- |
-| CALCULUS 3 | Prof. Leonard | https://www.youtube.com/playlist?list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7 |
+| Calculus II | Prof. Leonard | https://www.youtube.com/playlist?list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw- |
+| Calculus III | Prof. Leonard | https://www.youtube.com/playlist?list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7 |
 
 Work through these in order: pre-calculus, Calculus 1, Calculus 2, Calculus 3. Prof. Leonard's lectures are long but unusually clear. Use MIT 18.01 alongside them for formal problem sets and past exams.
 
@@ -125,9 +125,9 @@ These entries deliberately repeat the Physics section: the 8.02x sequence is the
 | Title | Provider / Instructor | Link |
 |---|---|---|
 | ⭐ Circuits and Electronics | MIT OpenCourseWare | https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/ |
-| ELECTRONIC MATERIALS AND DEVICES | MITx Open Learning Library | https://openlearninglibrary.mit.edu/courses/course-v1:MITX+3.15.1x+2T2017/about |
-| OPTICAL MATERIALS AND DEVICES | MITx Open Learning Library | https://openlearninglibrary.mit.edu/courses/course-v1:MITx+3.15.2x+2T2017/about |
-| MAGNETIC MATERIALS AND DEVICES | MITx Open Learning Library | https://openlearninglibrary.mit.edu/courses/course-v1:MITx+3.15.3x+2T2017/about |
+| Electronic Materials and Devices | MITx Open Learning Library | https://openlearninglibrary.mit.edu/courses/course-v1:MITX+3.15.1x+2T2017/about |
+| Optical Materials and Devices | MITx Open Learning Library | https://openlearninglibrary.mit.edu/courses/course-v1:MITx+3.15.2x+2T2017/about |
+| Magnetic Materials and Devices | MITx Open Learning Library | https://openlearninglibrary.mit.edu/courses/course-v1:MITx+3.15.3x+2T2017/about |
 | Power Electronics MIT 6.622 | MIT OpenCourseWare | https://www.youtube.com/playlist?list=PLUl4u3cNGP62UTc77mJoubhDELSC8lfR0 |
 
 The MIT 3.15x series covers semiconductor physics rather than device application alone. 3.15.1x is the natural starting point.
@@ -275,6 +275,7 @@ Insulation coordination, breakdown phenomena, surge protection, high voltage tes
 | Title | Provider / Instructor | Link |
 |---|---|---|
 | ⭐ CS50's Introduction to Computer Science | Harvard University — Prof. David J. Malan | https://cs50.harvard.edu/x/ |
+| Introduction To MATLAB Programming | MIT | https://ocw.mit.edu/courses/18-s997-introduction-to-matlab-programming-fall-2011/ |
 | Algorithms by Mohammed Abdul Bari | Mohammed Abdul Bari | https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O |
 | ⭐ GIT Version Control | learngitbranching.js.org | https://learngitbranching.js.org/ |
 | ⭐ Linux Learn | LabEx | https://labex.io/linuxjourney |
