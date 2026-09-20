@@ -1,4 +1,4 @@
-# Learn Electrical Engineering Online — Free
+# Learn Electrical Engineering Online for Free
 
 A curated list of free electrical engineering courses from universities and institutes including MIT, Harvard, Stanford, Yale, the IITs (via NPTEL), Georgia Tech, NYU, UMass, Beijing Jiaotong University, and Cisco.
 
@@ -13,7 +13,7 @@ All resources are free to access. No enrollment is required for most of them. Wh
 
 [Calculus](#calculus) · [Differential Equations](#differential-equations) · [Linear Algebra](#linear-algebra) · [Complex Variables & Transforms](#complex-variables--transforms) · [Applied Thermodynamics](#applied-thermodynamics) · [Physics](#physics) · [Circuit Analysis](#circuit-analysis) · [Electro Magnetic Field Theory](#electro-magnetic-field-theory) · [Electronics (Analog/ Digital/ Optical/ Power)](#electronics-analog-digital-optical-power) · [Digital Logic Design](#digital-logic-design) · [Microprocessors & Microcontrollers](#microprocessors--microcontrollers) · [Electrical Machines](#electrical-machines) · [Signals & Systems](#signals--systems) · [Digital Communication Systems](#digital-communication-systems) · [Computer Communication Networks](#computer-communication-networks) · [Industrial Automation](#industrial-automation) · [Control Engineering & Control Systems](#control-engineering--control-systems) · [Power Systems](#power-systems) · [Measurements & Instrumentation](#measurements--instrumentation) · [High Voltage Engineering](#high-voltage-engineering) · [Computing - Programming & Algorithms](#computing---programming--algorithms) · [Artificial Intelligence & Machine Learning](#artificial-intelligence--machine-learning)
 
-Reference: [Platforms](#platforms) · [Suggested Study Order](#suggested-study-order) · [Prerequisites](#prerequisites) · [Contributing](#contributing) · [Acknowledgements](#acknowledgements) · [License](#license)
+Reference: [Platforms](#platforms) · [Prerequisites](#prerequisites) · [Contributing](#contributing) · [Acknowledgements](#acknowledgements) · [License](#license)
 
 ---
 
@@ -21,8 +21,8 @@ Reference: [Platforms](#platforms) · [Suggested Study Order](#suggested-study-o
 
 | Title | Provider / Instructor | Link |
 |---|---|---|
-| PRE-CALCULUS (COLLEGE ALGEBRA & TRIGONOMETRY) | Prof. Leonard | https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP |
-| CALCULUS 1 | Prof. Leonard | https://www.youtube.com/playlist?list=PLF797E961509B4EB5 |
+| ⭐ PRE-CALCULUS (COLLEGE ALGEBRA & TRIGONOMETRY) | Prof. Leonard | https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP |
+| ⭐ CALCULUS 1 | Prof. Leonard | https://www.youtube.com/playlist?list=PLF797E961509B4EB5 |
 | Calculus I: Single Variable Calculus | MIT OpenCourseWare | https://ocw.mit.edu/courses/18-01-calculus-i-single-variable-calculus-fall-2020/ |
 | CALULUS 2 | Prof. Leonard | https://www.youtube.com/playlist?list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw- |
 | CALCULUS 3 | Prof. Leonard | https://www.youtube.com/playlist?list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7 |
@@ -97,9 +97,9 @@ Shankar's lectures build physical intuition; the MITx 8.02 series provides probl
 
 | Title | Provider / Instructor | Link |
 |---|---|---|
-| Comprehensive Circuits & Electrical Playlists by Michel Van Biezen | Michel van Biezen | https://www.youtube.com/@MichelvanBiezen/search?query=ELECTRICAL |
+| ⭐ Comprehensive Circuits & Electrical Playlists by Michel Van Biezen | Michel van Biezen | https://www.youtube.com/@MichelvanBiezen/search?query=ELECTRICAL |
 | Circuit Analysis by IIT Madras | IIT Madras (NPTEL) | https://www.youtube.com/playlist?list=PLYGynSK2bDIdjS66YGVhdczcialGVKtBG |
-| Circuits and Electronics by MIT | MIT OpenCourseWare — Prof. Anant Agarwal | https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/ |
+| ⭐ Circuits and Electronics by MIT | MIT OpenCourseWare — Prof. Anant Agarwal | https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/ |
 
 Covers KCL, KVL, nodal and mesh analysis, Thevenin and Norton equivalents, first and second order circuits, AC steady state, phasors and three-phase power. Van Biezen's channel contains several hundred short worked examples and is well suited to drilling technique.
 
@@ -124,7 +124,7 @@ These entries deliberately repeat the Physics section: the 8.02x sequence is the
 
 | Title | Provider / Instructor | Link |
 |---|---|---|
-| Circuits and Electronics | MIT OpenCourseWare | https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/ |
+| ⭐ Circuits and Electronics | MIT OpenCourseWare | https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/ |
 | ELECTRONIC MATERIALS AND DEVICES | MITx Open Learning Library | https://openlearninglibrary.mit.edu/courses/course-v1:MITX+3.15.1x+2T2017/about |
 | OPTICAL MATERIALS AND DEVICES | MITx Open Learning Library | https://openlearninglibrary.mit.edu/courses/course-v1:MITx+3.15.2x+2T2017/about |
 | MAGNETIC MATERIALS AND DEVICES | MITx Open Learning Library | https://openlearninglibrary.mit.edu/courses/course-v1:MITx+3.15.3x+2T2017/about |
@@ -202,7 +202,7 @@ Calculus 2 and differential equations are the practical requirements. Complex va
 
 | Title | Provider / Instructor | Link |
 |---|---|---|
-| Networking Basics by Cisco Networking Academy | Cisco Networking Academy | https://www.netacad.com/courses/networking-basics |
+| ⭐ Networking Basics by Cisco Networking Academy | Cisco Networking Academy | https://www.netacad.com/courses/networking-basics |
 | Computer Networking Lectures by Jim Kurose | UMass — Prof. Jim Kurose | https://gaia.cs.umass.edu/kurose_ross/lectures.php |
 | CCNA Complete Course by Jeremy IT Lab | Jeremy's IT Lab | https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ |
 
@@ -274,11 +274,10 @@ Insulation coordination, breakdown phenomena, surge protection, high voltage tes
 
 | Title | Provider / Instructor | Link |
 |---|---|---|
-| CS50's Introduction to Computer Science | Harvard University — Prof. David J. Malan | https://cs50.harvard.edu/x/ |
-| Networking Basics by Cisco Networking Academy | Cisco Networking Academy | https://www.netacad.com/courses/networking-basics |
+| ⭐ CS50's Introduction to Computer Science | Harvard University — Prof. David J. Malan | https://cs50.harvard.edu/x/ |
 | Algorithms by Mohammed Abdul Bari | Mohammed Abdul Bari | https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O |
-| GIT Version Control | learngitbranching.js.org | https://learngitbranching.js.org/ |
-| Linux Learn | LabEx | https://labex.io/linuxjourney |
+| ⭐ GIT Version Control | learngitbranching.js.org | https://learngitbranching.js.org/ |
+| ⭐ Linux Learn | LabEx | https://labex.io/linuxjourney |
 
 CS50x is the recommended starting point for anyone without a programming background. Git, Linux and algorithms together cover most of what is screened for in technical interviews.
 
@@ -291,7 +290,7 @@ No mathematics or engineering prerequisite. This can be started on day one, in p
 | Title | Provider / Instructor | Link |
 |---|---|---|
 | Stanford CS229: Machine Learning by Andrew NG | Stanford — Prof. Andrew Ng | https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU |
-| MIT 6.S191: Introduction to Deep Learning | MIT | https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI |
+| ⭐ MIT 6.S191: Introduction to Deep Learning | MIT | https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI |
 | Stanford CS230: Deep Learning by Andrew NG | Stanford — Prof. Andrew Ng | https://www.youtube.com/playlist?list=PLoROMvodv4rNRRGdS0rBbXOUGA0wjdh1X |
 | Stanford CS224N Natural Language Processing with Deep Learning | Stanford | https://www.youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D |
 
@@ -316,34 +315,6 @@ Suggested order: 6.S191 first for an overview, then CS229 for the mathematical f
 | YouTube | Individual educators | Free, no account |
 
 Certificates are not necessary for learning. NPTEL and edX offer paid verified certificates if you want them for a CV, but engineering employers generally place more weight on projects.
-
----
-
-## Suggested Study Order
-
-Grouped by what each subject actually depends on. Take one subject at a time and complete its problem sets before moving on.
-
-**No prerequisites — can start immediately**
-
-Programming & Algorithms · Calculus · Physics · Computer Communication Networks
-
-**Needs Calculus 1 and 2**
-
-Circuit Analysis · Differential Equations · Linear Algebra · Electro Magnetic Field Theory · Digital Logic Design · Applied Thermodynamics
-
-**Needs Circuit Analysis**
-
-Electronics · Electrical Machines · Power Systems · Measurements & Instrumentation · Microprocessors & Microcontrollers · Industrial Automation
-
-**Needs Differential Equations and Linear Algebra**
-
-Complex Variables & Transforms · Signals & Systems · Control Engineering & Control Systems · Artificial Intelligence & Machine Learning
-
-**Builds on Signals & Systems**
-
-Digital Communication Systems · High Voltage Engineering
-
-A realistic part-time pace is eight to ten hours per week, one subject at a time. Allow roughly three times the lecture duration for problem solving. Subjects within the same group are independent of each other and can be taken in any order, or two at a time.
 
 ---
 
@@ -426,5 +397,5 @@ Linked courses remain under the license terms set by their publishers. Much MIT 
 
 ---
 
-**Muhammad Abdul Rehman** — Electrical Engineer, UET Taxila
+This document & repository is created and maintained by **Muhammad Abdul Rehman** — Electrical Engineer, UET Taxila
 [engineer.marehman@gmail.com](mailto:engineer.marehman@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mabdulre9/) · [Portfolio](https://mabdulre9.github.io/portfolio/) · [GitHub](https://github.com/mabdulre9)
