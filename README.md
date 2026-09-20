@@ -323,6 +323,7 @@ No mathematics or engineering prerequisite. This can be started on day one, in p
 | Stanford CS229: Machine Learning by Andrew NG | Stanford — Prof. Andrew Ng | https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU |
 | ⭐ MIT 6.S191: Introduction to Deep Learning | MIT | https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI |
 | CS50’s Introduction to Artificial Intelligence with Python | Harvard | https://cs50.harvard.edu/ai/ |
+| ⭐ Introduction to Machine Learning (Slides & Jupyter Notebook Labs) | Sharif University of Technology, Iran | https://github.com/SharifiZarchi/Introduction_to_Machine_Learning |
 | Stanford CS230: Deep Learning by Andrew NG | Stanford — Prof. Andrew Ng | https://www.youtube.com/playlist?list=PLoROMvodv4rNRRGdS0rBbXOUGA0wjdh1X |
 | Stanford CS224N Natural Language Processing with Deep Learning | Stanford | https://www.youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D |
 
