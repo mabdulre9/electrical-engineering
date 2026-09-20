@@ -7,7 +7,7 @@ All resources are free to access. No enrollment is required for most of them. Wh
 **This document & repository is created and maintained by Muhammad Abdul Rehman — Electrical Engineer, UET Taxila**
 [engineer.marehman@gmail.com](mailto:engineer.marehman@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mabdulre9/) · [Portfolio](https://mabdulre9.github.io/portfolio/) · [GitHub](https://github.com/mabdulre9) · [Telegram](https://t.me/ElectricalEngineeringUETTaxila)
 
-📢 **Join My Telegram Group and Get access to 100s of practical resources, lectures, notes, softwares, and learning materials for Electrical Engineering https://t.me/ElectricalEngineeringUETTaxila**
+📢 **Join My Telegram Group and Get access to 100s of practical resources, lectures, notes, softwares, interview questions and learning materials for Electrical Engineering https://t.me/ElectricalEngineeringUETTaxila**
 
 ⚠️ **Note:** This repository is still a work in progress and will be updated frequently.
 
@@ -417,7 +417,7 @@ Linked courses remain under the license terms set by their publishers. Much MIT 
 
 ---
 
-📢 **Join My Telegram Group and Get access to 100s of practical resources, lectures, notes, softwares, and learning materials for Electrical Engineering https://t.me/ElectricalEngineeringUETTaxila**
+📢 **Join My Telegram Group and Get access to 100s of practical resources, lectures, notes, softwares, interview questions and learning materials for Electrical Engineering https://t.me/ElectricalEngineeringUETTaxila**
 
 **This document & repository is created and maintained by Muhammad Abdul Rehman — Electrical Engineer, UET Taxila**
 [engineer.marehman@gmail.com](mailto:engineer.marehman@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mabdulre9/) · [Portfolio](https://mabdulre9.github.io/portfolio/) · [GitHub](https://github.com/mabdulre9) · [Telegram](https://t.me/ElectricalEngineeringUETTaxila)
