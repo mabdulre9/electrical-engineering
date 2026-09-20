@@ -154,6 +154,8 @@ These entries deliberately repeat the Physics section: the 8.02x sequence is the
 | Optical Materials and Devices | MITx Open Learning Library | https://openlearninglibrary.mit.edu/courses/course-v1:MITx+3.15.2x+2T2017/about |
 | Magnetic Materials and Devices | MITx Open Learning Library | https://openlearninglibrary.mit.edu/courses/course-v1:MITx+3.15.3x+2T2017/about |
 | Power Electronics MIT 6.622 | MIT OpenCourseWare | https://www.youtube.com/playlist?list=PLUl4u3cNGP62UTc77mJoubhDELSC8lfR0 |
+| Analog Electronics | Neso Academy | https://www.youtube.com/playlist?list=PLBlnK6fEyqRiw-GZRqfnlVIBz9dxrqHJS |
+| Digital Electronics | Neso Academy | https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm |
 
 The MIT 3.15x series covers semiconductor physics rather than device application alone. 3.15.1x is the natural starting point.
 
