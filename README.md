@@ -45,8 +45,10 @@ Reference: [Platforms](#platforms) · [Prerequisites](#prerequisites) · [Contri
 
 | Title | Provider / Instructor | Link |
 |---|---|---|
-| ⭐Pre-Calculus (College Algebra & Trigonometry) | Prof. Leonard | https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP |
+| ⭐Pre-Calculus (College Algebra & Trigonometry) | Professor Leonard | https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP |
 | ⭐Calculus I | Professor Leonard | https://www.youtube.com/playlist?list=PLF797E961509B4EB5 |
+| Pre-Calculus | Organic Chemistry Tutor | https://www.video-tutor.net/precalculus.html |
+| Calculus | Organic Chemistry Tutor | https://www.video-tutor.net/calculus.html |
 | Calculus I: Single Variable Calculus | MIT OpenCourseWare | https://ocw.mit.edu/courses/18-01-calculus-i-single-variable-calculus-fall-2020/ |
 | Calculus II | Professor Leonard | https://www.youtube.com/playlist?list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw- |
 | Calculus III | Professor Leonard | https://www.youtube.com/playlist?list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7 |
@@ -84,6 +86,7 @@ Nothing else in this list needs mathematics beyond Calculus 1 to begin with. Lat
 | Title | Provider / Instructor | Link |
 |---|---|---|
 | CS109 Introduction to Probability for Computer Scientists | Stanford Online | https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg |
+| Statistics | Organic Chemistry Tutor | https://www.video-tutor.net/statistic.html |
 | Res. 6-012 Introduction to Probability | MIT OpenCourseWare | https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/ |
 | ⭐Statistics (Full Length Videos) | Professor Leonard | https://www.youtube.com/playlist?list=PL5102DFDC6790F3D0 |
 
@@ -150,6 +153,7 @@ Complex numbers in polar form are enough to begin AC circuit analysis. The full 
 |---|---|---|
 | Fundamentals of Physics with Ramamurti Shankar | Yale — Prof. Ramamurti Shankar | https://www.youtube.com/playlist?list=PLFE3074A4CB751B2B |
 | Fundamentals of Physics II with Ramamurti Shankar | Yale — Prof. Ramamurti Shankar | https://www.youtube.com/playlist?list=PLD07B2225BB40E582 |
+| Physics | Organic Chemistry Tutor | https://www.video-tutor.net/physics.html |
 | 8.01x - MIT Physics I: Classical Mechanics | MITx | https://www.youtube.com/playlist?list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e |
 | MIT Physics II: Electricity and Magnetism | MITx | https://www.youtube.com/playlist?list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j |
 | Electricity and Magnetism: Electrostatics | MITx Open Learning Library | https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.02.1x+1T2019/course/ |
@@ -176,6 +180,7 @@ Shankar's lectures build physical intuition; the MITx 8.02 series provides probl
 | ⭐Circuits and Electronics by MIT | MIT OpenCourseWare — Prof. Anant Agarwal | https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/ |
 | Network Analysis Full Course | Ankit Goyal | https://www.youtube.com/playlist?list=PLR7krO3VHssS9lW_L0s2XvPO4O1JuWWky |
 | Network Theory | Neso Academy | https://www.youtube.com/playlist?list=PLBlnK6fEyqRgLR-hMp7wem-bdVN1iEhsh |
+| Circuit Analysis | Khan Academy | https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic |
 
 **Recommended Textbooks**
 1. Electric Circuits by James W. Nilsson & Susan A. Riedel
