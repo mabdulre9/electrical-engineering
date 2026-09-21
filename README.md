@@ -536,8 +536,8 @@ Only the minimum needed to follow the material is listed. Where a course teaches
 
 ## Contributing
 
-To report a broken link, open an issue using the [broken link template](../../issues/new?template=broken-link.yml).
-To suggest a resource, use the [add resource template](../../issues/new?template=add-resource.yml) or open a pull request.
+Found a broken link? Open an issue to report it.
+You can also suggest resources through GitHub Issues and I will add it after review.
 
 A resource should be:
 
@@ -551,8 +551,6 @@ Links are written as plain URLs so that the full address is visible. Do not shor
 Course names should be kept as the original provider or instructor states them. Do not rewrite or normalize them.
 
 No pirated content, scraped paid material, or affiliate and tracking links. Strip tracking parameters such as `?spm=` from URLs before adding them.
-
-A [GitHub Action](.github/workflows/link-check.yml) re-checks every link in this file weekly.
 
 ---
 
