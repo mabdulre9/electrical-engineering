@@ -224,10 +224,11 @@ These entries deliberately repeat the Physics section: the 8.02x sequence is the
 
 **Recommended Textbooks**
 1. Microelectronic Circuits by Adel S. Sedra & Kenneth C. Smith
-2. Electronic Devices and Circuit Theory by Robert L. Boylestad & Louis Nashelsky
-3. Design of Analog CMOS Integrated Circuits by Behzad Razavi
-4. Power Electronics: Converters, Applications, and Design by Ned Mohan, Tore M. Undeland & William P. Robbins
-5. Fundamentals of Photonics by Bahaa E. A. Saleh & Malvin Carl Teich
+2. Electronic Devices by Thomas L. Floyd
+3. Electronic Devices and Circuit Theory by Robert L. Boylestad & Louis Nashelsky
+4. Design of Analog CMOS Integrated Circuits by Behzad Razavi
+5. Power Electronics: Converters, Applications, and Design by Ned Mohan, Tore M. Undeland & William P. Robbins
+6. Fundamentals of Photonics by Bahaa E. A. Saleh & Malvin Carl Teich
 
 ---
 
