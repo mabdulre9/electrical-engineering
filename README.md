@@ -123,6 +123,8 @@ Shankar's lectures build physical intuition; the MITx 8.02 series provides probl
 | ⭐ Comprehensive Circuits & Electrical Playlists by Michel Van Biezen | Michel van Biezen | https://www.youtube.com/@MichelvanBiezen/search?query=ELECTRICAL |
 | Circuit Analysis by IIT Madras | IIT Madras (NPTEL) | https://www.youtube.com/playlist?list=PLYGynSK2bDIdjS66YGVhdczcialGVKtBG |
 | ⭐ Circuits and Electronics by MIT | MIT OpenCourseWare — Prof. Anant Agarwal | https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/ |
+| Network Analysis Full Course | Ankit Goyal | https://www.youtube.com/playlist?list=PLR7krO3VHssS9lW_L0s2XvPO4O1JuWWky |
+| Network Theory | Neso Academy | https://www.youtube.com/playlist?list=PLBlnK6fEyqRgLR-hMp7wem-bdVN1iEhsh |
 
 Covers KCL, KVL, nodal and mesh analysis, Thevenin and Norton equivalents, first and second order circuits, AC steady state, phasors and three-phase power. Van Biezen's channel contains several hundred short worked examples and is well suited to drilling technique.
 
@@ -157,8 +159,6 @@ These entries deliberately repeat the Physics section: the 8.02x sequence is the
 | Razavi Electronics 1 | Behzad Razavi | https://www.youtube.com/playlist?list=PLiDoPUX9nLkJ8dnPgKoVEOiAb8BfulKRR |
 | Razavi Electronics 2 | Behzad Razavi | https://www.youtube.com/playlist?list=PLO4mxQzfcml_56XSGcA8ULOv7qEtZd0Hy |
 
-The MIT 3.15x series covers semiconductor physics rather than device application alone. 3.15.1x is the natural starting point.
-
 ---
 
 ## Digital Logic Design
@@ -167,8 +167,6 @@ The MIT 3.15x series covers semiconductor physics rather than device application
 |---|---|---|
 | Computation Structures by MIT | MIT OpenCourseWare | https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/ |
 | Digital Design with Verilog by IIT Guwahati | IIT Guwahati (NPTEL) | https://www.youtube.com/playlist?list=PLwdnzlV3ogoVlY7iVqr-FhWUQEX7JDdiP |
-
-MIT 6.004 progresses from the transistor to a working processor. The Verilog course covers hardware description, which is how design is done in FPGA and ASIC work.
 
 No calculus is required for this subject. Boolean algebra is taught from first principles.
 
@@ -181,6 +179,7 @@ No calculus is required for this subject. Boolean algebra is taught from first p
 | Microprocessors and Microcontrollers by IIT Kharagpur | IIT Kharagpur (NPTEL) | https://www.youtube.com/playlist?list=PL8G4ZtHAnWn3rrCZPIej2-eqk1bjKCsmL |
 | Embedded System Design with ARM by IIT Kharagpur | IIT Kharagpur (NPTEL) | https://www.youtube.com/playlist?list=PLbRMhDVUMngcJu5oUhgpgYqtOn7DmSfuU |
 | Microprocessors and Interfacing by IIT Guwahati | IIT Guwahati (NPTEL) | https://www.youtube.com/playlist?list=PLwdnzlV3ogoXgNjr_oe5cWQIbf72ZY4Zf |
+| Microprocessors & Microcontrollers | Neso Academy | https://www.youtube.com/playlist?list=PLBlnK6fEyqRgyFCCgqdcBowmSp_BTKs4F |
 
 This subject requires hardware to be useful. An inexpensive STM32, ESP32 or Arduino board is enough to implement what the lectures describe. Programming can be learned alongside the course.
 
@@ -192,8 +191,9 @@ This subject requires hardware to be useful. An inexpensive STM32, ESP32 or Ardu
 |---|---|---|
 | Electrical Machines – I by IIT Kharagpur | IIT Kharagpur (NPTEL) | https://www.youtube.com/playlist?list=PLbRMhDVUMngeAJH0n1H7bhTbiS2hgwI-W |
 | Electrical Machines – II by IIT Kharagpur | IIT Kharagpur (NPTEL) | https://www.youtube.com/playlist?list=PLbRMhDVUMngcDrGXlt-hX-ekpldUlC2b6 |
+| Electrical Machines | MAFarooqi | https://www.youtube.com/playlist?list=PL9s6YpaXIcJt1IeX3JV1z1j1E9JUi3bFj |
 
-Transformers, DC machines, induction machines and synchronous machines. Requires circuit analysis, including AC and phasors. Heavily weighted in GATE and in power sector interviews.
+Transformers, DC machines, induction machines and synchronous machines. Requires circuit analysis, including AC and phasors.
 
 ---
 
@@ -257,6 +257,8 @@ PLCs, SCADA, sensors and actuators, drives, robotics and manufacturing systems. 
 |---|---|---|
 | Control Engineering, IIT Madras | IIT Madras & IIEST Shibpur (NPTEL) — Prof. Ramkrishna Pasumarthy | https://nptel.ac.in/courses/108106098 |
 | Control Systems by Indian Institute of Technology Madras | IIT Madras | https://www.youtube.com/playlist?list=PLyqSpQzTE6M8-wda5vbgHkMQTmu-21hRK |
+| Control Systems | Neso Academy | https://www.youtube.com/playlist?list=PLBlnK6fEyqRhqzJT87LsdQKYZBC93ezDo |
+| Control Systems | Tutorials Point | https://www.youtube.com/playlist?list=PLWPirh4EWFpGpH_Rb6Q4iQ6vGGRA6MORZ |
 
 Transfer functions, block diagrams, time and frequency response, stability, root locus, Bode and Nyquist plots, PID and state-space design. Requires differential equations and the Laplace transform. Linear algebra is only needed for the state-space portion at the end.
 
@@ -284,7 +286,7 @@ Requires circuit analysis with AC and phasors. Electrical machines is useful bac
 | Electrical Measurement and Electronic Instruments | IIT Kharagpur (NPTEL) | https://nptel.ac.in/courses/108105153 |
 | Measurement and Instrumentation | IIT Guwahati (NPTEL) — Prof. Ravindra Kumar | https://nptel.ac.in/courses/108103862 |
 
-Transducers, bridges, oscilloscopes, data acquisition, error analysis and digital instrumentation. Requires basic circuit analysis and electronics. The IIT Kharagpur course is aligned to the GATE EE syllabus.
+Transducers, bridges, oscilloscopes, data acquisition, error analysis and digital instrumentation. Requires basic circuit analysis and electronics.
 
 ---
 
