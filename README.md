@@ -226,7 +226,7 @@ These entries deliberately repeat the Physics section: the 8.02x sequence is the
 | Digital Electronics | Neso Academy | https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm |
 | Razavi Electronics 1 | Behzad Razavi | https://www.youtube.com/playlist?list=PLiDoPUX9nLkJ8dnPgKoVEOiAb8BfulKRR |
 | Razavi Electronics 2 | Behzad Razavi | https://www.youtube.com/playlist?list=PLO4mxQzfcml_56XSGcA8ULOv7qEtZd0Hy |
-| ⭐High Speed Digital Design Masterclass | Eric Bogatin | https://www.theeecosystem.com/hsdd-masterclass |
+| High Speed Digital Design Masterclass | Eric Bogatin | https://www.theeecosystem.com/hsdd-masterclass |
 
 **Recommended Textbooks**
 1. Microelectronic Circuits by Adel S. Sedra & Kenneth C. Smith
