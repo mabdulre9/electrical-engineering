@@ -7,7 +7,7 @@ All resources are free to access. No enrollment is required for most of them. Wh
 **This document & repository is created and maintained by Muhammad Abdul Rehman — Electrical Engineer, UET Taxila**
 [engineer.marehman@gmail.com](mailto:engineer.marehman@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mabdulre9/) · [Portfolio](https://mabdulre9.github.io/portfolio/) · [GitHub](https://github.com/mabdulre9)
 
-⚠️ **Note:** This repository is still a work in progress and will be updated frequently.
+⚠️**Note:** This repository is still a work in progress and will be updated frequently.
 
 ---
 
@@ -15,26 +15,27 @@ All resources are free to access. No enrollment is required for most of them. Wh
 
 1. [Calculus](#calculus)
 2. [Differential Equations](#differential-equations)
-3. [Linear Algebra](#linear-algebra)
-4. [Complex Variables & Transforms](#complex-variables--transforms)
-5. [Applied Thermodynamics](#applied-thermodynamics)
-6. [Physics](#physics)
-7. [Circuit Analysis](#circuit-analysis)
-8. [Electro Magnetic Field Theory](#electro-magnetic-field-theory)
-9. [Electronics (Analog/ Digital/ Optical/ Power)](#electronics-analog-digital-optical-power)
-10. [Digital Logic Design](#digital-logic-design)
-11. [Microprocessors & Microcontrollers](#microprocessors--microcontrollers)
-12. [Electrical Machines](#electrical-machines)
-13. [Signals & Systems](#signals--systems)
-14. [Digital Communication Systems](#digital-communication-systems)
-15. [Computer Communication Networks](#computer-communication-networks)
-16. [Industrial Automation](#industrial-automation)
-17. [Control Systems & Control Engineering](#control-systems--control-engineering)
-18. [Power Systems](#power-systems)
-19. [Measurements & Instrumentation](#measurements--instrumentation)
-20. [High Voltage Engineering](#high-voltage-engineering)
-21. [Computing - Programming & Algorithms](#computing---programming--algorithms)
-22. [Artificial Intelligence & Machine Learning](#artificial-intelligence--machine-learning)
+3. [Probability & Statistics](#probability--statistics)
+4. [Linear Algebra](#linear-algebra)
+5. [Complex Variables & Transforms](#complex-variables--transforms)
+6. [Applied Thermodynamics](#applied-thermodynamics)
+7. [Physics](#physics)
+8. [Circuit Analysis](#circuit-analysis)
+9. [Electro Magnetic Field Theory](#electro-magnetic-field-theory)
+10. [Electronics (Analog/ Digital/ Optical/ Power)](#electronics-analog-digital-optical-power)
+11. [Digital Logic Design](#digital-logic-design)
+12. [Microprocessors & Microcontrollers](#microprocessors--microcontrollers)
+13. [Electrical Machines](#electrical-machines)
+14. [Signals & Systems](#signals--systems)
+15. [Digital Communication Systems](#digital-communication-systems)
+16. [Computer Communication Networks](#computer-communication-networks)
+17. [Industrial Automation](#industrial-automation)
+18. [Control Systems & Control Engineering](#control-systems--control-engineering)
+19. [Power Systems](#power-systems)
+20. [Measurements & Instrumentation](#measurements--instrumentation)
+21. [High Voltage Engineering](#high-voltage-engineering)
+22. [Computing - Programming & Algorithms](#computing---programming--algorithms)
+23. [Artificial Intelligence & Machine Learning](#artificial-intelligence--machine-learning)
 
 Reference: [Platforms](#platforms) · [Prerequisites](#prerequisites) · [Contributing](#contributing) · [Acknowledgements](#acknowledgements) · [License](#license)
 
@@ -44,11 +45,11 @@ Reference: [Platforms](#platforms) · [Prerequisites](#prerequisites) · [Contri
 
 | Title | Provider / Instructor | Link |
 |---|---|---|
-| ⭐ Pre-Calculus (College Algebra & Trigonometry) | Prof. Leonard | https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP |
-| ⭐ Calculus I | Prof. Leonard | https://www.youtube.com/playlist?list=PLF797E961509B4EB5 |
+| ⭐Pre-Calculus (College Algebra & Trigonometry) | Prof. Leonard | https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP |
+| ⭐Calculus I | Professor Leonard | https://www.youtube.com/playlist?list=PLF797E961509B4EB5 |
 | Calculus I: Single Variable Calculus | MIT OpenCourseWare | https://ocw.mit.edu/courses/18-01-calculus-i-single-variable-calculus-fall-2020/ |
-| Calculus II | Prof. Leonard | https://www.youtube.com/playlist?list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw- |
-| Calculus III | Prof. Leonard | https://www.youtube.com/playlist?list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7 |
+| Calculus II | Professor Leonard | https://www.youtube.com/playlist?list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw- |
+| Calculus III | Professor Leonard | https://www.youtube.com/playlist?list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7 |
 
 Work through these in order: pre-calculus, Calculus 1, Calculus 2, Calculus 3. Prof. Leonard's lectures are long but unusually clear. Use MIT 18.01 alongside them for formal problem sets and past exams.
 
@@ -60,11 +61,19 @@ Nothing else in this list needs mathematics beyond Calculus 1 to begin with. Lat
 
 | Title | Provider / Instructor | Link |
 |---|---|---|
-| Differential Equations by Professor Leonard | Prof. Leonard | https://www.youtube.com/playlist?list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_ |
+| Differential Equations by Professor Leonard | Professor Leonard | https://www.youtube.com/playlist?list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_ |
 | Differential Equations by MIT | MIT OpenCourseWare | https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/ |
 | Engineering Math: Differential Equations and Linear Algebra | MIT OpenCourseWare | https://ocw.mit.edu/courses/2-087-engineering-math-differential-equations-and-linear-algebra-fall-2014/ |
 
-18.03SC is the Scholar edition and includes recitations, exams and full solutions, which makes it better suited to self-study. The Laplace transform material returns throughout control and signals.
+---
+
+## Probability & Statistics
+
+| Title | Provider / Instructor | Link |
+|---|---|---|
+| CS109 Introduction to Probability for Computer Scientists | Stanford Online | https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg |
+| Res. 6-012 Introduction to Probability | MIT OpenCourseWare | https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/ |
+| ⭐Statistics (Full Length Videos) | Professor Leonard | https://www.youtube.com/playlist?list=PL5102DFDC6790F3D0 |
 
 ---
 
@@ -120,9 +129,9 @@ Shankar's lectures build physical intuition; the MITx 8.02 series provides probl
 
 | Title | Provider / Instructor | Link |
 |---|---|---|
-| ⭐ Comprehensive Circuits & Electrical Playlists by Michel Van Biezen | Michel van Biezen | https://www.youtube.com/@MichelvanBiezen/search?query=ELECTRICAL |
+| ⭐Comprehensive Circuits & Electrical Playlists by Michel Van Biezen | Michel van Biezen | https://www.youtube.com/@MichelvanBiezen/search?query=ELECTRICAL |
 | Circuit Analysis by IIT Madras | IIT Madras (NPTEL) | https://www.youtube.com/playlist?list=PLYGynSK2bDIdjS66YGVhdczcialGVKtBG |
-| ⭐ Circuits and Electronics by MIT | MIT OpenCourseWare — Prof. Anant Agarwal | https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/ |
+| ⭐Circuits and Electronics by MIT | MIT OpenCourseWare — Prof. Anant Agarwal | https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/ |
 | Network Analysis Full Course | Ankit Goyal | https://www.youtube.com/playlist?list=PLR7krO3VHssS9lW_L0s2XvPO4O1JuWWky |
 | Network Theory | Neso Academy | https://www.youtube.com/playlist?list=PLBlnK6fEyqRgLR-hMp7wem-bdVN1iEhsh |
 
@@ -149,7 +158,7 @@ These entries deliberately repeat the Physics section: the 8.02x sequence is the
 
 | Title | Provider / Instructor | Link |
 |---|---|---|
-| ⭐ Circuits and Electronics | MIT OpenCourseWare | https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/ |
+| ⭐Circuits and Electronics | MIT OpenCourseWare | https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/ |
 | Electronic Materials and Devices | MITx Open Learning Library | https://openlearninglibrary.mit.edu/courses/course-v1:MITX+3.15.1x+2T2017/about |
 | Optical Materials and Devices | MITx Open Learning Library | https://openlearninglibrary.mit.edu/courses/course-v1:MITx+3.15.2x+2T2017/about |
 | Magnetic Materials and Devices | MITx Open Learning Library | https://openlearninglibrary.mit.edu/courses/course-v1:MITx+3.15.3x+2T2017/about |
@@ -229,7 +238,7 @@ Calculus 2 and differential equations are the practical requirements. Complex va
 
 | Title | Provider / Instructor | Link |
 |---|---|---|
-| ⭐ Networking Basics by Cisco Networking Academy | Cisco Networking Academy | https://www.netacad.com/courses/networking-basics |
+| ⭐Networking Basics by Cisco Networking Academy | Cisco Networking Academy | https://www.netacad.com/courses/networking-basics |
 | Computer Networking Lectures by Jim Kurose | UMass — Prof. Jim Kurose | https://gaia.cs.umass.edu/kurose_ross/lectures.php |
 | CCNA Complete Course by Jeremy IT Lab | Jeremy's IT Lab | https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ |
 
@@ -305,12 +314,12 @@ Insulation coordination, breakdown phenomena, surge protection, high voltage tes
 
 | Title | Provider / Instructor | Link |
 |---|---|---|
-| ⭐ CS50's Introduction to Computer Science | Harvard University — Prof. David J. Malan | https://cs50.harvard.edu/x/ |
+| ⭐CS50's Introduction to Computer Science | Harvard University — Prof. David J. Malan | https://cs50.harvard.edu/x/ |
 | Introduction To MATLAB Programming | MIT | https://ocw.mit.edu/courses/18-s997-introduction-to-matlab-programming-fall-2011/ |
 | Algorithms by Mohammed Abdul Bari | Mohammed Abdul Bari | https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O |
 | CS50’s Introduction to Programming with Python | Harvard | https://cs50.harvard.edu/python/ |
-| ⭐ GIT Version Control | learngitbranching.js.org | https://learngitbranching.js.org/ |
-| ⭐ Linux Essentials | LabEx | https://labex.io/linuxjourney |
+| ⭐GIT Version Control | learngitbranching.js.org | https://learngitbranching.js.org/ |
+| ⭐Linux Essentials | LabEx | https://labex.io/linuxjourney |
 
 CS50x is the recommended starting point for anyone without a programming background. Git, Linux and algorithms together cover most of what is screened for in technical interviews.
 
@@ -323,9 +332,9 @@ No mathematics or engineering prerequisite. This can be started on day one, in p
 | Title | Provider / Instructor | Link |
 |---|---|---|
 | Stanford CS229: Machine Learning by Andrew NG | Stanford — Prof. Andrew Ng | https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU |
-| ⭐ MIT 6.S191: Introduction to Deep Learning | MIT | https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI |
+| ⭐MIT 6.S191: Introduction to Deep Learning | MIT | https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI |
 | CS50’s Introduction to Artificial Intelligence with Python | Harvard | https://cs50.harvard.edu/ai/ |
-| ⭐ Introduction to Machine Learning (Slides & Jupyter Notebook Labs) | Sharif University of Technology, Iran | https://github.com/SharifiZarchi/Introduction_to_Machine_Learning |
+| ⭐Introduction to Machine Learning (Slides & Jupyter Notebook Labs) | Sharif University of Technology, Iran | https://github.com/SharifiZarchi/Introduction_to_Machine_Learning |
 | Stanford CS230: Deep Learning by Andrew NG | Stanford — Prof. Andrew Ng | https://www.youtube.com/playlist?list=PLoROMvodv4rNRRGdS0rBbXOUGA0wjdh1X |
 | Stanford CS224N Natural Language Processing with Deep Learning | Stanford | https://www.youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D |
 
