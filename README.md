@@ -67,7 +67,7 @@ Nothing else in this list needs mathematics beyond Calculus 1 to begin with. Lat
 
 | Title | Provider / Instructor | Link |
 |---|---|---|
-| Differential Equations by Professor Leonard | Professor Leonard | https://www.youtube.com/playlist?list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_ |
+| Differential Equations by Professor Leonard | Professor Leonard | https://youtube.com/playlist?list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_&si=YHG55rPJPvhUiUDd |
 | Differential Equations by MIT | MIT OpenCourseWare | https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/ |
 | Engineering Math: Differential Equations and Linear Algebra | MIT OpenCourseWare | https://ocw.mit.edu/courses/2-087-engineering-math-differential-equations-and-linear-algebra-fall-2014/ |
 
