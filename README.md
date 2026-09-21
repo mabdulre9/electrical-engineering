@@ -51,6 +51,12 @@ Reference: [Platforms](#platforms) · [Prerequisites](#prerequisites) · [Contri
 | Calculus II | Professor Leonard | https://www.youtube.com/playlist?list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw- |
 | Calculus III | Professor Leonard | https://www.youtube.com/playlist?list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7 |
 
+**Recommended Textbooks**
+1. Thomas Calculus by George B. Thomas
+2. Precalculus: Mathematics for Calculus by James Stewart
+3. Calculus: Early Transcendentals by James Stewart
+4. Calculus by Tom M. Apostol
+
 Work through these in order: pre-calculus, Calculus 1, Calculus 2, Calculus 3. Prof. Leonard's lectures are long but unusually clear. Use MIT 18.01 alongside them for formal problem sets and past exams.
 
 Nothing else in this list needs mathematics beyond Calculus 1 to begin with. Later subjects state what they actually require in [Prerequisites](#prerequisites).
@@ -61,9 +67,15 @@ Nothing else in this list needs mathematics beyond Calculus 1 to begin with. Lat
 
 | Title | Provider / Instructor | Link |
 |---|---|---|
-| Differential Equations by Professor Leonard | Professor Leonard | https://youtube.com/playlist?list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_&si=YHG55rPJPvhUiUDd |
+| Differential Equations by Professor Leonard | Professor Leonard | https://www.youtube.com/playlist?list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_ |
 | Differential Equations by MIT | MIT OpenCourseWare | https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/ |
 | Engineering Math: Differential Equations and Linear Algebra | MIT OpenCourseWare | https://ocw.mit.edu/courses/2-087-engineering-math-differential-equations-and-linear-algebra-fall-2014/ |
+
+**Recommended Textbooks**
+1. Elementary Differential Equations and Boundary Value Problems by William E. Boyce & Richard C. DiPrima
+2. Fundamentals of Differential Equations by R. Kent Nagle, Edward B. Saff & Arthur D. Snider
+3. Ordinary Differential Equations by Morris Tenenbaum & Harry Pollard
+4. Differential Equations by Shepley L. Ross
 
 ---
 
@@ -75,6 +87,12 @@ Nothing else in this list needs mathematics beyond Calculus 1 to begin with. Lat
 | Res. 6-012 Introduction to Probability | MIT OpenCourseWare | https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/ |
 | ⭐Statistics (Full Length Videos) | Professor Leonard | https://www.youtube.com/playlist?list=PL5102DFDC6790F3D0 |
 
+**Recommended Textbooks**
+1. Introduction to Probability by Dimitri P. Bertsekas & John N. Tsitsiklis
+2. A First Course in Probability by Sheldon M. Ross
+3. Probability, Random Variables and Stochastic Processes by Athanasios Papoulis & S. Unnikrishna Pillai
+4. Probability and Statistics for Engineers and Scientists by Ronald E. Walpole, Raymond H. Myers, Sharon L. Myers & Keying Ye
+
 ---
 
 ## Linear Algebra
@@ -83,6 +101,12 @@ Nothing else in this list needs mathematics beyond Calculus 1 to begin with. Lat
 |---|---|---|
 | Linear Algebra by Prof. Gilbert Strang | MIT OpenCourseWare | https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/ |
 | Linear Algebra (Full Course) by Dr. Trefor Bazett | Dr. Trefor Bazett | https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6 |
+
+**Recommended Textbooks**
+1. Introduction to Linear Algebra by Gilbert Strang
+2. Linear Algebra and Its Applications by David C. Lay, Steven Lay & Judi McDonald
+3. Linear Algebra Done Right by Sheldon Axler
+4. Elementary Linear Algebra by Howard Anton & Chris Rorres
 
 Bazett's course is stronger on geometric intuition; Strang's is stronger on rigour and application.
 
@@ -95,6 +119,12 @@ Bazett's course is stronger on geometric intuition; Strang's is stronger on rigo
 | Complex Variables and Integral Transforms by Beijing Jiaotong University | Beijing Jiaotong University (XuetangX) | https://next.xuetangx.com/course/bjtu08091003615intl/31396387 |
 | Complex Analysis by IIT Guwahati | IIT Guwahati (NPTEL) | https://nptel.ac.in/courses/111103070 |
 
+**Recommended Textbooks**
+1. Complex Variables and Applications by James Ward Brown & Ruel V. Churchill
+2. Advanced Engineering Mathematics by Erwin Kreyszig
+3. Complex Analysis for Mathematics and Engineering by John H. Mathews & Russell W. Howell
+4. Fourier Analysis and Its Applications by Gerald B. Folland
+
 Complex numbers in polar form are enough to begin AC circuit analysis. The full theory of analytic functions and contour integration is only needed later, for communications and advanced field work.
 
 ---
@@ -105,6 +135,12 @@ Complex numbers in polar form are enough to begin AC circuit analysis. The full 
 |---|---|---|
 | Concepts of Thermodynamics by IIT Kharagpur | IIT Kharagpur (NPTEL) | https://www.youtube.com/playlist?list=PLbRMhDVUMngeQ_BsUnF5PMBAbCYzYzUNx |
 | Thermodynamics & Kinetics MIT by Professor Prof. Keith A. Nelson & Prof. Moungi Bawendi | MIT OpenCourseWare | https://ocw.mit.edu/courses/5-60-thermodynamics-kinetics-spring-2008/ |
+
+**Recommended Textbooks**
+1. Thermodynamics: An Engineering Approach by Yunus A. Cengel & Michael A. Boles
+2. Fundamentals of Engineering Thermodynamics by Michael J. Moran, Howard N. Shapiro, Daisie D. Boettner & Margaret B. Bailey
+3. Fundamentals of Thermodynamics by Richard E. Sonntag, Claus Borgnakke & Gordon J. Van Wylen
+4. Engineering Thermodynamics by P.K. Nag
 
 ---
 
@@ -121,6 +157,12 @@ Complex numbers in polar form are enough to begin AC circuit analysis. The full 
 | Electricity and Magnetism: Maxwell's Equations | MITx Open Learning Library | https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.02.3x+1T2019/about |
 | Physics III: Vibrations and Waves | MIT OpenCourseWare | https://ocw.mit.edu/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/ |
 
+**Recommended Textbooks**
+1. University Physics with Modern Physics by Hugh D. Young & Roger A. Freedman
+2. Fundamentals of Physics by David Halliday, Robert Resnick & Jearl Walker
+3. The Feynman Lectures on Physics by Richard P. Feynman, Robert B. Leighton & Matthew Sands
+4. Physics for Scientists and Engineers by Raymond A. Serway & John W. Jewett
+
 Shankar's lectures build physical intuition; the MITx 8.02 series provides problem-solving practice. Vibrations and Waves is useful background for signals and communications.
 
 ---
@@ -134,6 +176,12 @@ Shankar's lectures build physical intuition; the MITx 8.02 series provides probl
 | ⭐Circuits and Electronics by MIT | MIT OpenCourseWare — Prof. Anant Agarwal | https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/ |
 | Network Analysis Full Course | Ankit Goyal | https://www.youtube.com/playlist?list=PLR7krO3VHssS9lW_L0s2XvPO4O1JuWWky |
 | Network Theory | Neso Academy | https://www.youtube.com/playlist?list=PLBlnK6fEyqRgLR-hMp7wem-bdVN1iEhsh |
+
+**Recommended Textbooks**
+1. Electric Circuits by James W. Nilsson & Susan A. Riedel
+2. Fundamentals of Electric Circuits by Charles K. Alexander & Matthew N. O. Sadiku
+3. Engineering Circuit Analysis by William H. Hayt, Jack E. Kemmerly & Steven M. Durbin
+4. Introduction to Electric Circuits by Richard C. Dorf & James A. Svoboda
 
 Covers KCL, KVL, nodal and mesh analysis, Thevenin and Norton equivalents, first and second order circuits, AC steady state, phasors and three-phase power. Van Biezen's channel contains several hundred short worked examples and is well suited to drilling technique.
 
@@ -149,6 +197,12 @@ Algebra and trigonometry are enough to start. The small amount of calculus and c
 | Electricity and Magnetism: Magnetic Fields and Forces | MITx Open Learning Library | https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.02.2x+2T2018/about |
 | Electricity and Magnetism: Maxwell's Equations | MITx Open Learning Library | https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.02.3x+1T2019/about |
 | MIT Physics II: Electricity and Magnetism | MITx | https://www.youtube.com/playlist?list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j |
+
+**Recommended Textbooks**
+1. Introduction to Electrodynamics by David J. Griffiths
+2. Elements of Electromagnetics by Matthew N. O. Sadiku
+3. Engineering Electromagnetics by William H. Hayt & John A. Buck
+4. Field and Wave Electromagnetics by David K. Cheng
 
 These entries deliberately repeat the Physics section: the 8.02x sequence is the standard undergraduate treatment of field theory. Calculus 1 and 2 are sufficient. The 8.02x courses introduce divergence, gradient and curl as they are needed, so multivariable calculus is helpful but not required to begin.
 
@@ -168,6 +222,13 @@ These entries deliberately repeat the Physics section: the 8.02x sequence is the
 | Razavi Electronics 1 | Behzad Razavi | https://www.youtube.com/playlist?list=PLiDoPUX9nLkJ8dnPgKoVEOiAb8BfulKRR |
 | Razavi Electronics 2 | Behzad Razavi | https://www.youtube.com/playlist?list=PLO4mxQzfcml_56XSGcA8ULOv7qEtZd0Hy |
 
+**Recommended Textbooks**
+1. Microelectronic Circuits by Adel S. Sedra & Kenneth C. Smith
+2. Electronic Devices and Circuit Theory by Robert L. Boylestad & Louis Nashelsky
+3. Design of Analog CMOS Integrated Circuits by Behzad Razavi
+4. Power Electronics: Converters, Applications, and Design by Ned Mohan, Tore M. Undeland & William P. Robbins
+5. Fundamentals of Photonics by Bahaa E. A. Saleh & Malvin Carl Teich
+
 ---
 
 ## Digital Logic Design
@@ -176,6 +237,12 @@ These entries deliberately repeat the Physics section: the 8.02x sequence is the
 |---|---|---|
 | Computation Structures by MIT | MIT OpenCourseWare | https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/ |
 | Digital Design with Verilog by IIT Guwahati | IIT Guwahati (NPTEL) | https://www.youtube.com/playlist?list=PLwdnzlV3ogoVlY7iVqr-FhWUQEX7JDdiP |
+
+**Recommended Textbooks**
+1. Digital Design by M. Morris Mano & Michael D. Ciletti
+2. Fundamentals of Digital Logic with Verilog Design by Stephen Brown & Zvonko Vranesic
+3. Verilog HDL: A Guide to Digital Design and Synthesis by Samir Palnitkar
+4. Digital Integrated Circuits: A Design Perspective by Jan M. Rabaey
 
 No calculus is required for this subject. Boolean algebra is taught from first principles.
 
@@ -190,6 +257,12 @@ No calculus is required for this subject. Boolean algebra is taught from first p
 | Microprocessors and Interfacing by IIT Guwahati | IIT Guwahati (NPTEL) | https://www.youtube.com/playlist?list=PLwdnzlV3ogoXgNjr_oe5cWQIbf72ZY4Zf |
 | Microprocessors & Microcontrollers | Neso Academy | https://www.youtube.com/playlist?list=PLBlnK6fEyqRgyFCCgqdcBowmSp_BTKs4F |
 
+**Recommended Textbooks**
+1. The Intel Microprocessors by Barry B. Brey
+2. The Definitive Guide to ARM Cortex-M3 and Cortex-M4 Processors by Joseph Yiu
+3. Embedded Systems: Real-Time Interfacing to ARM Cortex-M Microcontrollers by Jonathan W. Valvano
+4. Making Embedded Systems: Design Patterns for Great Systems by Elecia White
+
 This subject requires hardware to be useful. An inexpensive STM32, ESP32 or Arduino board is enough to implement what the lectures describe. Programming can be learned alongside the course.
 
 ---
@@ -202,6 +275,12 @@ This subject requires hardware to be useful. An inexpensive STM32, ESP32 or Ardu
 | Electrical Machines – II by IIT Kharagpur | IIT Kharagpur (NPTEL) | https://www.youtube.com/playlist?list=PLbRMhDVUMngcDrGXlt-hX-ekpldUlC2b6 |
 | Electrical Machines | MAFarooqi | https://www.youtube.com/playlist?list=PL9s6YpaXIcJt1IeX3JV1z1j1E9JUi3bFj |
 
+**Recommended Textbooks**
+1. Electric Machinery by A. E. Fitzgerald, Charles Kingsley Jr. & Stephen D. Umans
+2. Electric Machinery Fundamentals by Stephen J. Chapman
+3. Electric Machines by D. P. Kothari & I. J. Nagrath
+4. Electrical Machines, Drives, and Power Systems by Theodore Wildi
+
 Transformers, DC machines, induction machines and synchronous machines. Requires circuit analysis, including AC and phasors.
 
 ---
@@ -213,6 +292,12 @@ Transformers, DC machines, induction machines and synchronous machines. Requires
 | Signals and Systems by Prof. Dennis Freeman | MIT OpenCourseWare | https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011/ |
 | Signals and Systems by Prof. Alan V. Oppenheim | MIT OpenCourseWare | https://ocw.mit.edu/courses/res-6-007-signals-and-systems-spring-2011/ |
 | Digital Signal Processing by Prof. Alan V. Oppenheim | MIT OpenCourseWare | https://ocw.mit.edu/courses/res-6-008-digital-signal-processing-spring-2011/ |
+
+**Recommended Textbooks**
+1. Signals and Systems by Alan V. Oppenheim, Alan S. Willsky & S. Hamid Nawab
+2. Discrete-Time Signal Processing by Alan V. Oppenheim & Ronald W. Schafer
+3. Linear Systems and Signals by B. P. Lathi
+4. Digital Signal Processing by John G. Proakis & Dimitris G. Manolakis
 
 Continuous and discrete time signals, convolution, Fourier series and transforms, Laplace and z-transforms, and sampling. 6.003 is the more accessible entry point; RES.6-007 goes deeper; RES.6-008 covers DSP.
 
@@ -230,6 +315,12 @@ Calculus 2 and differential equations are the practical requirements. Complex va
 | Digital Signal Theory by Brain Mcfee | NYU — Brian McFee | https://brianmcfee.net/dstbook-site/content/intro.html |
 | DSP First by McClellan, Schafer, Yoder | Georgia Tech | https://dspfirst.gatech.edu/ |
 
+**Recommended Textbooks**
+1. Digital Communications by John G. Proakis & Masoud Salehi
+2. Digital Communications: Fundamentals and Applications by Bernard Sklar
+3. Modern Digital and Analog Communication Systems by B. P. Lathi & Zhi Ding
+4. Communication Systems by Simon S. Haykin
+
 6.02 is written at second-year level and assumes little beyond basic probability. 6.450 and 6.451 are postgraduate and require signals and systems.
 
 ---
@@ -241,6 +332,12 @@ Calculus 2 and differential equations are the practical requirements. Complex va
 | ⭐Networking Basics by Cisco Networking Academy | Cisco Networking Academy | https://www.netacad.com/courses/networking-basics |
 | Computer Networking Lectures by Jim Kurose | UMass — Prof. Jim Kurose | https://gaia.cs.umass.edu/kurose_ross/lectures.php |
 | CCNA Complete Course by Jeremy IT Lab | Jeremy's IT Lab | https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ |
+
+**Recommended Textbooks**
+1. Computer Networking: A Top-Down Approach by James F. Kurose & Keith W. Ross
+2. Computer Networks by Andrew S. Tanenbaum & David J. Wetherall
+3. Data Communications and Networking by Behrouz A. Forouzan
+4. Computer Networks: A Systems Approach by Larry L. Peterson & Bruce S. Davie
 
 Kurose's lectures follow the standard textbook and cover theory. Jeremy's IT Lab covers practical certification-level skills and includes Packet Tracer labs.
 
@@ -256,6 +353,12 @@ No mathematics prerequisite. This subject can be taken at any point.
 | Automation in Production Systems and Management IIT Kharagpur | IIT Kharagpur (NPTEL) | https://nptel.ac.in/courses/110105155 |
 | Automation In Manufacturing by IIT Guwahati | IIT Guwahati (NPTEL) | https://nptel.ac.in/courses/112103293 |
 
+**Recommended Textbooks**
+1. Programmable Logic Controllers by Frank D. Petruzella
+2. Automation, Production Systems, and Computer-Integrated Manufacturing by Mikell P. Groover
+3. IEC 61131-3: Programming Industrial Automation Systems by Karl-Heinz John & Michael Tiegelkamp
+4. Industrial Automation: Hands-On by Frank Lamb
+
 PLCs, SCADA, sensors and actuators, drives, robotics and manufacturing systems. Basic circuit analysis and digital logic are useful background; control theory is not required to start.
 
 ---
@@ -269,6 +372,12 @@ PLCs, SCADA, sensors and actuators, drives, robotics and manufacturing systems. 
 | Control Systems | Neso Academy | https://www.youtube.com/playlist?list=PLBlnK6fEyqRhqzJT87LsdQKYZBC93ezDo |
 | Control Systems | Tutorials Point | https://www.youtube.com/playlist?list=PLWPirh4EWFpGpH_Rb6Q4iQ6vGGRA6MORZ |
 
+**Recommended Textbooks**
+1. Modern Control Engineering by Katsuhiko Ogata
+2. Control Systems Engineering by Norman S. Nise
+3. Feedback Control of Dynamic Systems by Gene F. Franklin, J. David Powell & Abbas Emami-Naeini
+4. Modern Control Systems by Richard C. Dorf & Robert H. Bishop
+
 Transfer functions, block diagrams, time and frequency response, stability, root locus, Bode and Nyquist plots, PID and state-space design. Requires differential equations and the Laplace transform. Linear algebra is only needed for the state-space portion at the end.
 
 ---
@@ -280,6 +389,12 @@ Transfer functions, block diagrams, time and frequency response, stability, root
 | Power System Engineering | IIT Kharagpur (NPTEL) — Prof. Debapriya Das | https://nptel.ac.in/courses/108105104 |
 | Power System Generation, Transmission and Distribution | IIT Delhi | https://nptel.ac.in/courses/108102047 |
 | Power Plant Engineering | IIT Roorkee | https://nptel.ac.in/courses/112107291 |
+
+**Recommended Textbooks**
+1. Power System Analysis by John J. Grainger Jr. & William D. Stevenson Jr.
+2. Modern Power System Analysis by D. P. Kothari & I. J. Nagrath
+3. Power Systems Analysis by Arthur R. Bergen & Vijay Vittal
+4. Electrical Power Systems by C. L. Wadhwa
 
 
 Generation, transmission, distribution, load flow, fault analysis, stability and grid operation. The IIT Kharagpur course covers transmission lines, insulators, corona, sag and tension, distribution load flow, voltage stability, load frequency control and unit commitment.
@@ -295,6 +410,12 @@ Requires circuit analysis with AC and phasors. Electrical machines is useful bac
 | Electrical Measurement and Electronic Instruments | IIT Kharagpur (NPTEL) | https://nptel.ac.in/courses/108105153 |
 | Measurement and Instrumentation | IIT Guwahati (NPTEL) — Prof. Ravindra Kumar | https://nptel.ac.in/courses/108103862 |
 
+**Recommended Textbooks**
+1. Electronic Instrumentation and Measurement Techniques by William D. Cooper & Adolph D. Helfrick
+2. A Course in Electrical and Electronic Measurements and Instrumentation by A. K. Sawhney & Puneet Sawhney
+3. Principles of Measurement Systems by John P. Bentley
+4. Instrumentation, Measurement and Analysis by B. C. Nakra & K. K. Chaudhry
+
 Transducers, bridges, oscilloscopes, data acquisition, error analysis and digital instrumentation. Requires basic circuit analysis and electronics.
 
 ---
@@ -304,6 +425,12 @@ Transducers, bridges, oscilloscopes, data acquisition, error analysis and digita
 | Title | Provider / Instructor | Link |
 |---|---|---|
 | High Voltage Engineering | NESC Academy (NASA Engineering & Safety Center) | https://nescacademy.nasa.gov/playlist/c8a0c94a732a4385a383ae64e9a6aabc54 |
+
+**Recommended Textbooks**
+1. High-Voltage Engineering: Fundamentals by E. Kuffel, W. S. Zaengel & J. Kuffel
+2. High Voltage Engineering by M. S. Naidu & V. Kamaraju
+3. High Voltage and Electrical Insulation Engineering by Ravindra Arora & Wolfgang Mosch
+4. High Voltage Engineering: Fundamentals, Technology, Applications by Andreas Kuchler
 
 
 Insulation coordination, breakdown phenomena, surge protection, high voltage testing and equipment design. Requires electrostatics from the field theory material, plus circuit analysis for transient behaviour.
@@ -321,6 +448,12 @@ Insulation coordination, breakdown phenomena, surge protection, high voltage tes
 | ⭐GIT Version Control | learngitbranching.js.org | https://learngitbranching.js.org/ |
 | ⭐Linux Essentials | LabEx | https://labex.io/linuxjourney |
 
+**Recommended Textbooks**
+1. Introduction to Algorithms by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest & Clifford Stein
+2. The C Programming Language by Brian W. Kernighan & Dennis M. Ritchie
+3. MATLAB: An Introduction with Applications by Amos Gilat
+4. Pro Git by Scott Chacon & Ben Straub
+
 CS50x is the recommended starting point for anyone without a programming background. Git, Linux and algorithms together cover most of what is screened for in technical interviews.
 
 No mathematics or engineering prerequisite. This can be started on day one, in parallel with anything else.
@@ -337,6 +470,13 @@ No mathematics or engineering prerequisite. This can be started on day one, in p
 | ⭐Introduction to Machine Learning (Slides & Jupyter Notebook Labs) | Sharif University of Technology, Iran | https://github.com/SharifiZarchi/Introduction_to_Machine_Learning |
 | Stanford CS230: Deep Learning by Andrew NG | Stanford — Prof. Andrew Ng | https://www.youtube.com/playlist?list=PLoROMvodv4rNRRGdS0rBbXOUGA0wjdh1X |
 | Stanford CS224N Natural Language Processing with Deep Learning | Stanford | https://www.youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D |
+
+**Recommended Textbooks**
+1. Artificial Intelligence: A Modern Approach by Stuart Russell & Peter Norvig
+2. Deep Learning by Ian Goodfellow, Yoshua Bengio & Aaron Courville
+3. Pattern Recognition and Machine Learning by Christopher M. Bishop
+4. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurelien Geron
+5. Speech and Language Processing by Dan Jurafsky & James H. Martin
 
 Suggested order: 6.S191 first for an overview, then CS229 for the mathematical foundations, then CS230, then CS224N. Linear algebra and Python are the real requirements; probability and calculus can be picked up alongside.
 
