@@ -1,6 +1,6 @@
 # Learn Electrical Engineering Online for Free
 
-A curated list of free electrical engineering courses from universities and institutes including MIT, Harvard, Stanford, Yale, the IITs (via NPTEL), Georgia Tech, NYU, UMass, Beijing Jiaotong University, and Cisco.
+A curated list of free electrical engineering courses from universities and institutes including MIT, Harvard, Stanford, Yale, the IITs (via NPTEL), Georgia Tech, NYU, UMass, Beijing Jiaotong University, and Cisco etc.
 
 All resources are free to access. No enrollment is required for most of them. Where a platform asks for a free account, this is noted in the [Platforms](#platforms) section. 
 
@@ -563,9 +563,9 @@ No pirated content, scraped paid material, or affiliate and tracking links. Stri
 
 All course material linked here belongs to its original authors and institutions and is published by them for open access. This repository contains links only; it hosts no mirrored or copyrighted content.
 
-Institutions: Massachusetts Institute of Technology (MIT OpenCourseWare and MITx), the Indian Institutes of Technology via NPTEL/SWAYAM, Harvard University, Stanford University, Yale University, Georgia Institute of Technology, New York University, University of Massachusetts Amherst, Beijing Jiaotong University, Cisco Systems, LabEx and XuetangX.
+Institutions: Massachusetts Institute of Technology (MIT OpenCourseWare and MITx), the Indian Institutes of Technology via NPTEL/SWAYAM, Harvard University, Stanford University, Yale University, Georgia Institute of Technology, New York University, University of Massachusetts Amherst, Beijing Jiaotong University, Cisco Systems, LabEx and XuetangX etc. and many more.
 
-Educators: Prof. Leonard, Michel van Biezen, Dr. Trefor Bazett, Prof. Gilbert Strang, Prof. Ramamurti Shankar, Prof. Alan V. Oppenheim, Prof. Dennis Freeman, Prof. Anant Agarwal, Prof. Andrew Ng, Prof. David J. Malan, Prof. Jim Kurose, Mohammed Abdul Bari, Jeremy's IT Lab and Brian McFee.
+Educators: Professor Leonard, Michel van Biezen, Dr. Trefor Bazett, Prof. Gilbert Strang, Prof. Ramamurti Shankar, Prof. Alan V. Oppenheim, Prof. Dennis Freeman, Prof. Anant Agarwal, Prof. Andrew Ng, Prof. David J. Malan, Prof. Jim Kurose, Mohammed Abdul Bari, Jeremy's IT Lab and Brian McFee etc. and many more.
 
 ---
 
