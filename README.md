@@ -213,7 +213,7 @@ These entries deliberately repeat the Physics section: the 8.02x sequence is the
 
 ---
 
-## Electronics (Analog/ Digital/ Optical/ Power)
+## Electronics (Analog/ Optical/ Power)
 
 | Title | Provider / Instructor | Link |
 |---|---|---|
@@ -223,7 +223,6 @@ These entries deliberately repeat the Physics section: the 8.02x sequence is the
 | Magnetic Materials and Devices | MITx Open Learning Library | https://openlearninglibrary.mit.edu/courses/course-v1:MITx+3.15.3x+2T2017/about |
 | Power Electronics MIT 6.622 | MIT OpenCourseWare | https://www.youtube.com/playlist?list=PLUl4u3cNGP62UTc77mJoubhDELSC8lfR0 |
 | Analog Electronics | Neso Academy | https://www.youtube.com/playlist?list=PLBlnK6fEyqRiw-GZRqfnlVIBz9dxrqHJS |
-| Digital Electronics | Neso Academy | https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm |
 | Razavi Electronics 1 | Behzad Razavi | https://www.youtube.com/playlist?list=PLiDoPUX9nLkJ8dnPgKoVEOiAb8BfulKRR |
 | Razavi Electronics 2 | Behzad Razavi | https://www.youtube.com/playlist?list=PLO4mxQzfcml_56XSGcA8ULOv7qEtZd0Hy |
 | High Speed Digital Design Masterclass | Eric Bogatin | https://www.theeecosystem.com/hsdd-masterclass |
@@ -244,6 +243,8 @@ These entries deliberately repeat the Physics section: the 8.02x sequence is the
 |---|---|---|
 | Computation Structures by MIT | MIT OpenCourseWare | https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/ |
 | Digital Design with Verilog by IIT Guwahati | IIT Guwahati (NPTEL) | https://www.youtube.com/playlist?list=PLwdnzlV3ogoVlY7iVqr-FhWUQEX7JDdiP |
+| ⭐Digital Electronics | Beijing Jiaotong University, China | https://next.xuetangx.com/course/bjtu0807bt0807intl/31396955 |
+| Digital Electronics | Neso Academy | https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm |
 
 **Recommended Textbooks**
 1. Digital Design by M. Morris Mano & Michael D. Ciletti
