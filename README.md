@@ -263,7 +263,7 @@ No calculus is required for this subject. Boolean algebra is taught from first p
 | Embedded System Design with ARM by IIT Kharagpur | IIT Kharagpur (NPTEL) | https://www.youtube.com/playlist?list=PLbRMhDVUMngcJu5oUhgpgYqtOn7DmSfuU |
 | Microprocessors and Interfacing by IIT Guwahati | IIT Guwahati (NPTEL) | https://www.youtube.com/playlist?list=PLwdnzlV3ogoXgNjr_oe5cWQIbf72ZY4Zf |
 | Microprocessors & Microcontrollers | Neso Academy | https://www.youtube.com/playlist?list=PLBlnK6fEyqRgyFCCgqdcBowmSp_BTKs4F |
-| ⭐Arduino Course for Everybody | freeCodeCamp | https://youtu.be/DPqiIzK97K0 |
+| ⭐Arduino Tutorials | Tech at Home | https://youtube.com/playlist?list=PL4B0LEKY-jrT_fjOGkX_NZ52ZHZf8s9S-&si=tFaq1QBtusQAQx60 |
 
 **Recommended Textbooks**
 1. The Intel Microprocessors by Barry B. Brey
