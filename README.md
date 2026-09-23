@@ -28,14 +28,16 @@ All resources are free to access. No enrollment is required for most of them. Wh
 13. [Electrical Machines](#electrical-machines)
 14. [Signals & Systems](#signals--systems)
 15. [Digital Communication Systems](#digital-communication-systems)
-16. [Computer Communication Networks](#computer-communication-networks)
-17. [Industrial Automation](#industrial-automation)
-18. [Control Systems & Control Engineering](#control-systems--control-engineering)
-19. [Power Systems](#power-systems)
-20. [Measurements & Instrumentation](#measurements--instrumentation)
-21. [High Voltage Engineering](#high-voltage-engineering)
-22. [Computing - Programming & Algorithms](#computing---programming--algorithms)
-23. [Artificial Intelligence & Machine Learning](#artificial-intelligence--machine-learning)
+16. [Optical Communication Systems](#optical-communication-systems)
+17. [Wireless Communication Systems](#wireless-communication-systems)
+18. [Computer Communication Networks](#computer-communication-networks)
+19. [Industrial Automation](#industrial-automation)
+20. [Control Systems & Control Engineering](#control-systems--control-engineering)
+21. [Power Systems](#power-systems)
+22. [Measurements & Instrumentation](#measurements--instrumentation)
+23. [High Voltage Engineering](#high-voltage-engineering)
+24. [Computing - Programming & Algorithms](#computing---programming--algorithms)
+25. [Artificial Intelligence & Machine Learning](#artificial-intelligence--machine-learning)
 
 Reference: [Platforms](#platforms) · [Prerequisites](#prerequisites) · [Contributing](#contributing) · [Acknowledgements](#acknowledgements) · [License](#license)
 
@@ -213,7 +215,7 @@ These entries deliberately repeat the Physics section: the 8.02x sequence is the
 
 ---
 
-## Electronics (Analog/ Optical/ Power)
+## Electronics (Analog/ Digital/ Optical/ Power)
 
 | Title | Provider / Instructor | Link |
 |---|---|---|
@@ -245,6 +247,7 @@ These entries deliberately repeat the Physics section: the 8.02x sequence is the
 | Digital Design with Verilog by IIT Guwahati | IIT Guwahati (NPTEL) | https://www.youtube.com/playlist?list=PLwdnzlV3ogoVlY7iVqr-FhWUQEX7JDdiP |
 | ⭐Digital Electronics | Beijing Jiaotong University, China | https://next.xuetangx.com/course/bjtu0807bt0807intl/31396955 |
 | Digital Electronics | Neso Academy | https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm |
+| Digital Integrated Circuit Analysis and Design | Tsinghua University | https://next.xuetangx.com/course/thu08071000387intl/4003579 |
 
 **Recommended Textbooks**
 1. Digital Design by M. Morris Mano & Michael D. Ciletti
@@ -332,7 +335,38 @@ Calculus 2 and differential equations are the practical requirements. Complex va
 3. Modern Digital and Analog Communication Systems by B. P. Lathi & Zhi Ding
 4. Communication Systems by Simon S. Haykin
 
-6.02 is written at second-year level and assumes little beyond basic probability. 6.450 and 6.451 are postgraduate and require signals and systems.
+---
+
+## Optical Communication Systems
+
+| Title | Provider / Instructor | Link |
+|---|---|---|
+| Fiber-Optic Communication Systems and Techniques | IIT Kanpur | https://youtube.com/playlist?list=PLFW6lRTa1g83YaqmM9r2MAAiJVY93bOP7&si=FD_7FTdOxX977eTP |
+| Optical Fiber Communications | Nanjing University of Posts and Telecommunications, China | https://next.xuetangx.com/course/njupt08071014747intl/31397708 |
+| Fiber Optic Communication Technology | IIT Madras | https://nptel.ac.in/courses/108106167 |
+| Optical fiber communication technology | Chengdu University of Information Technology | https://next.xuetangx.com/course/cuit0807bt1124intl/31397089 |
+
+**Recommended Textbooks**
+1. Fiber-Optic Communication Systems — Govind P. Agrawal
+2. Optical Fiber Communications: Principles and Practice — John M. Senior & M. Y. Jamro
+3. Optical Fiber Communications by Gerd Keiser
+
+---
+
+## Wireless Communication Systems
+
+| Title | Provider / Instructor | Link |
+|---|---|---|
+| Wireless Communications | Xidian University | https://next.xuetangx.com/course/xidian08071012370/31397207 |
+| Fundamentals of Wireless Communication | Beijing Jiaotong University | https://next.xuetangx.com/course/bjtu0807bt563intl/31396923 |
+| Wireless Communications | Professor Bruno Clerckx  | https://youtube.com/playlist?list=PL3nE1Yo1b4CrAfN3lndrMImPFuS1hR5U-&si=KWbAhlDbxhvLlO5T |
+| Introduction to Wireless and Cellular Communications |  IIT Madras | https://nptel.ac.in/courses/106106167 |
+
+**Recommended Textbooks**
+1. Wireless Communications by Andrea Goldsmith
+2. Fundamentals of Wireless Communication by David Tse and Pramod Viswanath
+3. Principles of Mobile Communication by Gordon L. Stuber
+4. Wireless Communications: Principles and Practice by Theodore Rappaport
 
 ---
 
@@ -361,6 +395,7 @@ No mathematics prerequisite. This subject can be taken at any point.
 | Title | Provider / Instructor | Link |
 |---|---|---|
 | Industrial Automation & Control by NPTEL | NPTEL | https://nptel.ac.in/courses/108105062 |
+| Principles and Applications of Programmable Logic Controllers | Xihua University | https://next.xuetangx.com/course/xhu08081018216intl/31372984 |
 | Automation in Production Systems and Management IIT Kharagpur | IIT Kharagpur (NPTEL) | https://nptel.ac.in/courses/110105155 |
 | Automation In Manufacturing by IIT Guwahati | IIT Guwahati (NPTEL) | https://nptel.ac.in/courses/112103293 |
 
@@ -379,6 +414,7 @@ PLCs, SCADA, sensors and actuators, drives, robotics and manufacturing systems. 
 | Title | Provider / Instructor | Link |
 |---|---|---|
 | Control Engineering, IIT Madras | IIT Madras & IIEST Shibpur (NPTEL) — Prof. Ramkrishna Pasumarthy | https://nptel.ac.in/courses/108106098 |
+| Automation Control Theory/Fundamental of Control Engineering | South China University of Technology | https://next.xuetangx.com/course/scut08081002961intl/31396215 |
 | Control Systems by Indian Institute of Technology Madras | IIT Madras | https://www.youtube.com/playlist?list=PLyqSpQzTE6M8-wda5vbgHkMQTmu-21hRK |
 | Control Systems | Neso Academy | https://www.youtube.com/playlist?list=PLBlnK6fEyqRhqzJT87LsdQKYZBC93ezDo |
 | Control Systems | Tutorials Point | https://www.youtube.com/playlist?list=PLWPirh4EWFpGpH_Rb6Q4iQ6vGGRA6MORZ |
