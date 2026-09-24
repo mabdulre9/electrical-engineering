@@ -517,6 +517,7 @@ No mathematics or engineering prerequisite. This can be started on day one, in p
 | ⭐Introduction to Machine Learning (Slides & Jupyter Notebook Labs) | Sharif University of Technology, Iran | https://github.com/SharifiZarchi/Introduction_to_Machine_Learning |
 | Stanford CS230: Deep Learning by Andrew NG | Stanford — Prof. Andrew Ng | https://www.youtube.com/playlist?list=PLoROMvodv4rNRRGdS0rBbXOUGA0wjdh1X |
 | Stanford CS224N Natural Language Processing with Deep Learning | Stanford | https://www.youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D |
+| Stanford CME295: Transformers and Large Language Models | Stanford Online | https://youtube.com/playlist?list=PLoROMvodv4rOCXd21gf0CF4xr35yINeOy&si=Dt-8nMIbrX9yByVr |
 
 **Recommended Textbooks**
 1. Artificial Intelligence: A Modern Approach by Stuart Russell & Peter Norvig
